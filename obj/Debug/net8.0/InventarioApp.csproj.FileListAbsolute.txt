@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\InventarioApp\obj\Debug\net8.0\InventarioApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\InventarioApp\obj\Debug\net8.0\InventarioApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\InventarioApp\obj\Debug\net8.0\InventarioApp.AssemblyInfo.cs
+C:\Users\User\Desktop\InventarioApp\obj\Debug\net8.0\InventarioApp.csproj.CoreCompileInputs.cache
